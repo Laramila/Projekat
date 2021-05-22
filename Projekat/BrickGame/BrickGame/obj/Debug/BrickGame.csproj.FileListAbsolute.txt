@@ -1,0 +1,10 @@
+D:\Lara\SystemPro\Projekat\BrickGame\BrickGame\bin\Debug\BrickGame.exe.config
+D:\Lara\SystemPro\Projekat\BrickGame\BrickGame\bin\Debug\BrickGame.exe
+D:\Lara\SystemPro\Projekat\BrickGame\BrickGame\bin\Debug\BrickGame.pdb
+D:\Lara\SystemPro\Projekat\BrickGame\BrickGame\obj\Debug\BrickGame.csprojAssemblyReference.cache
+D:\Lara\SystemPro\Projekat\BrickGame\BrickGame\obj\Debug\BrickGame.Properties.Resources.resources
+D:\Lara\SystemPro\Projekat\BrickGame\BrickGame\obj\Debug\BrickGame.csproj.GenerateResource.cache
+D:\Lara\SystemPro\Projekat\BrickGame\BrickGame\obj\Debug\BrickGame.csproj.CoreCompileInputs.cache
+D:\Lara\SystemPro\Projekat\BrickGame\BrickGame\obj\Debug\BrickGame.exe
+D:\Lara\SystemPro\Projekat\BrickGame\BrickGame\obj\Debug\BrickGame.pdb
+D:\Lara\SystemPro\Projekat\BrickGame\BrickGame\obj\Debug\BrickGame.Form1.resources
